@@ -2,4 +2,4 @@
 New text
 
 Some more text
-fix2 chenges
+fix2 changes
