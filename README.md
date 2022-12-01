@@ -90,3 +90,4 @@ You can also use words, to fit your writing style more closely[^note].
     <!-- Этот контент не будет отображаться в отображаемом Markdown -->
     
     Let's rename \*our-new-project\* to \*our-old-project\*.
+[https://github.com/](https://github.com/)
